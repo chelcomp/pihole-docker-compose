@@ -1,0 +1,11 @@
+# Ignore directories
+etc-dnsmasq.d/
+etc-pihole/
+etc-pihole_bkp/
+
+# Ignore backup files
+*.bkp*
+*~
+
+# Ignore environment file
+.env
